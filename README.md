@@ -1,10 +1,12 @@
 # YouTubeClone
 YouTube clone is a video CMS containing standard features of YouTube that enables you to launch your own video sharing website instantly.If you're a total beginner and you don't even understand the difference between HTML and CSS, you can check out this repository to learn everything you need to get started...
-We'll discuss how to make the layout of the YouTube clone with HTML and CSS and you'll learn how to make a two-column layout. Go to this belowYouTube 👇
+We'll discuss how to make the layout of the YouTube clone with HTML and CSS and you'll learn how to make a two-column layout.
 
 # Language used
 * HTML
 * css
+
+Go to this below YouTube 👇
 
 # Project Link 👉
 
