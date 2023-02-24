@@ -8,7 +8,7 @@ We'll discuss how to make the layout of the YouTube clone with HTML and CSS and 
 
 Go to this below YouTube 👇
 
-# Project Link 👉
+# Project Link 👉 https://youtu.be/teJxYxNa0Kc
 
 # Have a look on this video
 
