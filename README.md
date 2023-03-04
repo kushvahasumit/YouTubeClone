@@ -6,7 +6,7 @@ We'll discuss how to make the layout of the YouTube clone with HTML and CSS and 
 * HTML
 * css
 
-Go to this below YouTube 👇
+
 
 # Project Link 👉 https://youtu.be/teJxYxNa0Kc
 
