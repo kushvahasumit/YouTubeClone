@@ -6,7 +6,7 @@ We'll discuss how to make the layout of the YouTube clone with HTML and CSS and 
 * HTML
 * css
 
-# Live link :: https://64433c337ba8f930e504f3f2--mellifluous-elf-06adeb.netlify.app/
+# Live link :: https://myclonedyoutube.netlify.app/
 
 # Project Link 👉 https://youtu.be/teJxYxNa0Kc
 
